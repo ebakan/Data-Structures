@@ -1,0 +1,7 @@
+This is my collection of programs written as part of the second semester of my Data Structures course. They are an investigation into the implementation and analysis of various common data structures (linked lists, stacks, queues, heaps, graphs, etc.) as well as algorithms for sorting, traversing, and otherwise operating on them. These programs are also an exercise in programming to implementations, designing object-oriented projects, and unit testing programs.
+
+The code from the first semester and previous years of computer science courses are stored on my school network, which I currently do not have access to, but I will upload them soon.
+
+This software is released under the GPL "as-is" without any warranty.
+Copyright (C) 2011 by Eric Bakan.
+
